@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TopDownArenaRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kayley\Downloads\IBTestFiles\Intermediate\Build\Win64\x64\IBEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.obj"
+"C:\Users\Kayley\Downloads\IBTestFiles\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\Module.TopDownArenaRuntime.cpp.obj"
+"C:\Users\Kayley\Downloads\IBTestFiles\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\Default.rc2.res"
+/OUT:"C:\Users\Kayley\Downloads\IBTestFiles\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\UnrealEditor-TopDownArenaRuntime.lib"

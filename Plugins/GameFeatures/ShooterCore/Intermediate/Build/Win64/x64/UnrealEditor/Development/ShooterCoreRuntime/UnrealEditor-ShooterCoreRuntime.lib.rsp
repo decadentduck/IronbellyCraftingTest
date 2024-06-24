@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShooterCoreRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kayley\Downloads\IBTestFiles\Intermediate\Build\Win64\x64\IBEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.obj"
+"C:\Users\Kayley\Downloads\IBTestFiles\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterCoreRuntime\Module.ShooterCoreRuntime.cpp.obj"
+"C:\Users\Kayley\Downloads\IBTestFiles\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterCoreRuntime\Default.rc2.res"
+/OUT:"C:\Users\Kayley\Downloads\IBTestFiles\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterCoreRuntime\UnrealEditor-ShooterCoreRuntime.lib"
